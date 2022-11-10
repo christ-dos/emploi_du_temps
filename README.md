@@ -18,7 +18,7 @@ Java 1.8 - Maven 4.0.0 , Hibernate, PostgresSql 13.1, Tomcat 9.0
   3.Installer PostgresSQL:
   https://www.postgresql.org/download/windows/
 
-  4.Installer un serveur tomCat:
+  4.Installer un serveur TomCat:
   https://tomcat.apache.org/download-90.cgi
 
   5.Installer hibernate:
