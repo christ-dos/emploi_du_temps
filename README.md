@@ -2,7 +2,7 @@
 <p> Une petite application web réalisée en binôme pour projet final de ma formation MS Java JEE permettant de rentrer les différentes matières de son emploi du temps à l'aide d'un formulaire avec persitences des données. 
 Les technologies utilisées: Java JEE, Maven, Hibernate, HTML,CSS, Jstl, PostgresSQL.
 </p>
-
+✨<a></a>
 >
 
 Les prérequis dont vous aurez besoin pour installer l'application et comment les installer :
