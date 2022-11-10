@@ -1,0 +1,171 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+body{
+  background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+  background: linear-gradient(to right,  #642644, #ffa677);
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  font-size: 30px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+table{
+  width:100%;
+  table-layout: fixed;
+}
+tbody{
+	color:#fff;
+}
+
+thead{
+	background-color: rgba(255,255,255,0.3);
+
+}
+
+th {
+  display: table-cell;
+  padding: 20px 15px;
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: center;
+  width: 100px;
+  text-transform: uppercase;
+}
+
+td{
+  display: table-cell;
+  font-weight: bold;
+  text-align: center; 
+  padding: 15px;
+  vertical-align:middle;
+  font-size: 17px;
+  color:  #642644;
+  border: solid 1px rgba(255,255,255,0.3);
+}
+
+form{
+	display:flex;
+	justify-content: start;
+}
+
+input[type=submit] {
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	background-color: #642644;
+  	border: none;
+  	color: white;
+  	width:110px;
+    padding: 15px 20px;
+    margin: 10px 4px;
+    cursor: pointer;
+    text-align: center;
+      }
+input:hover {
+	background-color:  #f86e68;
+  	opacity: 0.8;
+}
+
+.box select {
+  background-color: #642644;
+  color: white;
+  padding: 12px;
+  margin: 8px;
+  width: 320px;
+  border: none;
+  font-size: 20px;
+  text-align:center;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+}
+
+.box select option {
+  padding: 30px;
+}
+
+#fieldset{
+	color:white;
+	padding: 20px;
+	background-color:rgba(2,0,36, 0.1);
+	border-color: rgba(0, 0, 0, 0.5);
+}
+#legend{
+	color:#000080;
+}
+
+.fenetre{
+	display: flex;
+	flex-direction: column;
+	align-items:center;
+	justify-content: center;
+	width:1000px;
+    margin: auto;
+}
+
+.green_background{
+	background: #b54859
+}
+
+.white_background{
+	background-color:  rgba(248,173,183,0.3);
+	color:  rgba(75, 1, 26,0.8);
+	}
+
+.error{
+    color:red;
+    font-size: 0.9em;
+    text-align:left;
+    margin-left: 2%;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+.submit {
+	display: flex;
+	justify-content: space-around;
+}
+
+.java {
+	color: rgb(255, 128, 192);
+	background-color:rgb(94, 66, 79)
+}
+
+.html{
+	color: rgb(166, 210, 255);
+	background-color:rgba(128, 64, 64,0.6);
+}
+
+.css {
+	color: #ff9ecc;
+	background-color: #833258;
+}
+
+.poo {
+	color:  rgb(121, 2, 44);
+	background-color:  #a34225;
+}
+
+.hibernate {
+	color:  #555184;
+	background-color:  #f6a6ba;
+}
+
+.algorithmique {
+	color: #3e2d2b;
+	background-color:  #cbaad0;
+}
+
+.repos {
+	color: rgb(128, 0, 64);
+	background-color: #ffa677;
+}
+
+.btn_ajouter{
+	display: flex;
+	justify-content: center;
+}
