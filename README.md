@@ -27,7 +27,7 @@ Java 1.8 - Maven 4.0.0 , Hibernate, PostgresSql 13.1, Tomcat 9.0
 
   7.Run emploiDuTemps dans votre IDE.
 
-  8. Dans un navigateur taper l'adresse suivante : http://localhost:4040/emploiDuTemps/, et vous pourrez commencer à utiliser Emploi du temps.
+  8.Dans un navigateur taper l'adresse suivante : http://localhost:4040/emploiDuTemps/, et vous pourrez commencer à utiliser Emploi du temps.
 
 ## Author
 
