@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Emploi du temps 👋</h1>
-<p> Une petite application web réalisée en binôme pour projet final de ma formation MS Java JEE permettant de rentrer les différentes matières de son emploi du temps à l'aide d'un formulaire avec persitences des données. 
+<p> Une petite application web réalisée en binôme pour projet final de ma formation MS Java JEE permettant de rentrer les différentes matières de son emploi du temps à l'aide d'un formulaire avec persitance des données. 
 Les technologies utilisées: Java JEE, Maven, Hibernate, HTML,CSS, Jstl, PostgresSQL.
 </p>
 ✨<a href="https://drive.google.com/file/d/1NuaLZxGoK9I_ZxtafEgMavDMZj7P6pL3/view?usp=share_link">Demo</a>
